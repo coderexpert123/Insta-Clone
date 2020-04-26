@@ -1,6 +1,7 @@
 # instaclone
 
-A new Flutter application.
+Instagram Clone Ui 
+Using Flutter 
 
 ## Getting Started
 
